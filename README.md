@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanoj32
-- 👀 I’m a Fullstack web developer. (Laravel,Javascript,Livewire)
+- 👀 I’m a Fullstack web developer. ( Laravel, Javascript, Livewire )
 - 📫 How to reach me https://www.linkedin.com/in/sanoj-shrestha-5222ab1ba/
 - Mainly active on Gitlab => https://gitlab.com/sanoj.shrestha.13
 
